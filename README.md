@@ -1,5 +1,7 @@
 ### Analysis and Design of Elementary MOS Amplifier Stages
 
+<img src="cover.png" width="300" />
+
 Copyright (c) 2013-2022 National Technology and Science Press  
 Copyright (c) 2022 Boris Murmann  
 
