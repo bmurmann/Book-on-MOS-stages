@@ -9,7 +9,7 @@
 |p. 20, second column, Eq. 2.1 |$I_D(y) = W \cdot Q_n(y) \cdot v(y)$  |$I_D = -W \cdot Q_n(y) \cdot v(y)$ |$I_D$ is constant throughout the channel (no dependence on $y$). Since $I_D$ is defined as flowing into the drain, its mathematical definition in Eq. 2.1 requires a negative sign. The original right side of Eq. 2.1 shows the current flowing in the positive y direction, which is opposite the direction of $I_D$. |
 |p. 20, second column, last paragraph |$E(y) = dV(y)/dy$  |$E(y) = -dV(y)/dy$  |  |
 |p. 21, Fig. 2-3(d) |$Q_n(L-~L) = 0$  |$Q_n(L - \Delta L)$ = 0  |  |
-|p. 21, second column, line after E.g 2.7  |for $V_{DS} = V_{GS} - V_{Tn}$ |for $V_{DS} >= V_{GS} - V_{Tn}$  |  |
+|p. 21, second column, line after E.g 2.7  |for $V_{DS} = V_{GS} - V_{Tn}$ |for $V_{DS} \ge V_{GS} - V_{Tn}$  |  |
 |p. 36, second column, second paragraph | \[e.g., a calculation of $g_m$ using Eq. (2.23)\] |\[e.g., a calculation of $g_m$ using Eq. (2.34)\] | |
 |p. 37, Fig. 2-16 legend |Eq. (3.29)  |Eq. (2.31) |  |
 |p. 42, Figure 2-22  |   |    |The $v_{out}$ sinusoid should be phase shifted by 180 degrees for consistency with the inverting gain of the common-source stage. |
