@@ -32,7 +32,7 @@
 |p. 87  |$A_{well} = (W+2X_1) \cdot$  $(L+2L_{diff}+2X_1+X_2)$  |$A_{well} = (W+2X_1) \cdot$ $(L+3L_{diff}+2X_1+X_2)$  |The length of the well contact should be included by adding another L_diff. This should also be shown in Figure Ex. 4-1  |
 |p. 88, Eq. (4.5)   | $di_D/dv_{SB}$    |$di_D/dv_{BS}$       |               |
 |p. 92, Eq. (4.12)     |   |     |delete extra "V" after the square root expression                                                 |
-|p. 92, Solution of Ex. 4-3 |   |   |The $g{mb}$ equation under "we evaluate Eq. (4.12)..." does not belong here. It should instead be an evaluation of Eq. (4.12 using the given numbers.   |
+|p. 92, Solution of Ex. 4-3 |   |   |The $g_{mb}$ equation under "we evaluate Eq. (4.12)..." does not belong here. It should instead be an evaluation of Eq. (4.12 using the given numbers.   |
 |p. 96, Eq. (4.25)   |$R_D &#124;&#124 sC_D$   |$R_D &#124;&#124 (1/sC_D)$   |      |
 |p. 96, 8th line of second column  |This is simply $R_{in}$  |This is simply $R_{out}$   |   |
 |p. 97, Eq. (4.29)  |$(1 + s[R_D&#124;&#124;R_L])(C_d + C_L)$  |$1 + s([R_D&#124;&#124;R_L][C_d + C_L])$  |     |
