@@ -1,5 +1,7 @@
 ### Analysis and Design of Elementary MOS Amplifier Stages
 
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 <img src="cover.png" width="300" />
 
 Copyright (c) 2013-2022 National Technology and Science Press  
