@@ -1,6 +1,7 @@
 # Analysis and Design of Elementary MOS Amplifier Stages
 
-[PDF](https://github.com/bmurmann/Book-on-MOS-stages/blob/3573b49921660eefe0ceb7a369119c6d6ef505a8/book/Analysis%20and%20Design%20of%20Elementary%20MOS%20Amplifier%20Stages.pdf) [![CC BY 4.0][cc-by-shield]][cc-by]
+[PDF](https://github.com/bmurmann/Book-on-MOS-stages/blob/3573b49921660eefe0ceb7a369119c6d6ef505a8/book/Analysis%20and%20Design%20of%20Elementary%20MOS%20Amplifier%20Stages.pdf) 
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
