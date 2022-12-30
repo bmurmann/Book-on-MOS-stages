@@ -13,11 +13,11 @@ Copyright (c) 2022 Boris Murmann
 
 ```
 @book{murmann_mos_stages_2013, 
-  title={Analysis and Design of Elementary MOS Amplifier Stages}, 
+  title={{Analysis and Design of Elementary MOS Amplifier Stages}}, 
   author={Murmann, Boris}, 
   publisher={NTS Press}, 
   place={Allendale, NJ},
-  year={2013},
+  year={2013}
 }
 ```
 
