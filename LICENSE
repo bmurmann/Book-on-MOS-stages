@@ -1,6 +1,13 @@
-BSD 3-Clause License
-
 Copyright (c) 2022, Boris Murmann
+
+This repository contains various types of files, which are covered under different licenses.
+
+The book PDF and errata are licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0)
+http://creativecommons.org/licenses/by/4.0/
+
+---
+The provided code and simulation examples (Jupyter notebooks, LTspice schematics, models) are provided under a BSD 3-Clause License
+https://opensource.org/licenses/BSD-3-Clause
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -26,3 +33,17 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+For license information related to the provided LTspice schematics, please refer to:
+https://www.analog.com/ltspice
+
+LTspice® is a high performance SPICE simulation software, schematic capture
+and waveform viewer with enhancements and models for easing the simulation
+of analog circuits. Included in the download of LTspice are macromodels for
+a majority of Analog Devices switching regulators, amplifiers, as well as a
+library of devices for general circuit simulation.
+
+*.asc LTspice schematic.
+*.cir LTspice external netlist input
+*.lib LTspice model library subcircuits
