@@ -1,4 +1,4 @@
-Examples on how to run some of the book's examples & simulations using LTspice.
+Example simulation using LTspice.
 
 **Figure_2-7_CS_DC_sweep.asc:**  
 
