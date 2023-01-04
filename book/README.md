@@ -1,6 +1,6 @@
 # Acknowledgements and License Information #
 
-*Rights Reversion*  
+## Rights Reversion ##
 As of November 1, 2022, National Technology and Science Press (“NTS”) has discontinued publication of “Analysis and Design of Elementary MOS Amplifier Stages.” Accordingly, NTS has returned all copyrights and attendant rights with respect to the work to Boris Murmann.
 
 *License Information for this PDF Copy*  
