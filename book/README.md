@@ -17,5 +17,5 @@ This book is freely available to use, adopt, and share with attribution accordin
 https://github.com/bmurmann/Book-on-MOS-stages
 
 ### Open Textbook Library
-This book is listed in the Open Texbook Library at https://open.umn.edu/opentextbooks/textbooks/analysis-and-design-of-elementary-mos-amplifier-stages.
+This book is listed in the Open Texbook Library at https://open.umn.edu/opentextbooks/textbooks/analysis-and-design-of-elementary-mos-amplifier-stages.  
 You may visit https://open.umn.edu/opentextbooks to access other open textbooks.
