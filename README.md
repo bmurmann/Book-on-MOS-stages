@@ -3,7 +3,7 @@
 [PDF Download](https://github.com/bmurmann/Book-on-MOS-stages/blob/main/book/Analysis%20and%20Design%20of%20Elementary%20MOS%20Amplifier%20Stages.pdf)  
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-$${\color{red}NEW: Online version with improvements}$$
+$${\color{red}NEW: \space Online \space version \space with \space improvements}$$
 [Link](https://bmurmann.github.io/COCOA/contents/partI/partI.1.html)
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
